@@ -1,0 +1,6 @@
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.exe
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.dll
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.deps.json
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.runtimeconfig.json
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.dll.config
+C:\Users\Hudso\OneDrive\Área de Trabalho\Nova pasta (2)\LogSearch.pdb

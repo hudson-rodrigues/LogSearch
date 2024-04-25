@@ -1,0 +1,16 @@
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\bin\Debug\net8.0-windows\LogSearch.exe
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\bin\Debug\net8.0-windows\LogSearch.deps.json
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\bin\Debug\net8.0-windows\LogSearch.runtimeconfig.json
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\bin\Debug\net8.0-windows\LogSearch.dll
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\bin\Debug\net8.0-windows\LogSearch.pdb
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.csproj.GenerateResource.cache
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.AssemblyInfoInputs.cache
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.AssemblyInfo.cs
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.csproj.CoreCompileInputs.cache
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.dll
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\refint\LogSearch.dll
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.pdb
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.genruntimeconfig.cache
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\ref\LogSearch.dll
+C:\Users\Hudso\source\repos\LogSearch\LogSearch\obj\Debug\net8.0-windows\LogSearch.frmSearchLog.resources
